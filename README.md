@@ -1,2 +1,2 @@
 # Car-Breakdown-Prediction
-Predcitove maintainance - Finding remaining useful life of a Car
+Predcitive maintainance - Finding remaining useful life of a Car
