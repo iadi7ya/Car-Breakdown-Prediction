@@ -1,5 +1,5 @@
 # Car-Breakdown-Prediction
-Predcitive maintainance - Finding remaining useful life (RUL) of a Car
+Predicitive maintainance - Finding remaining useful life (RUL) of a Car
 
 Dataset: Car engine parameter (reading from 21 senors), operational settings modes (3-modes)
 
